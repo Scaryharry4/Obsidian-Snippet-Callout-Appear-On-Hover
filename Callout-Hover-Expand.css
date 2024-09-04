@@ -29,3 +29,7 @@ Git Hub - https://github.com/Scaryharry4
     If for some reason you happen to need more than this in a callout you should also change the transition time in the code block above*/
     flex-grow: 1; 
   }
+
+  .callout-content .callout {
+    opacity: 1;
+  }
