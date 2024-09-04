@@ -7,6 +7,9 @@ If the content of your callout is more than 41 lines (With default text size) or
 This callout has not yet been tested on non default callout themes. If you adjust this to function with a theme of your choice I encourage you to make a fork on the Github
 https://github.com/Scaryharry4/Obsidian-Snippet-Callout-Appear-On-Hover
 
+Please note that this does not apply to nested callouts at the moment as I just cant be asked to keep working on this. If you feel so inclined feel free to make it yourself id be happy to accept a pull request.
+
+
 <img width="616" alt="Hover Callout Example" src="https://github.com/user-attachments/assets/2aaaea2c-38e6-45d1-afb6-0fc65bfddcf3">
 
 Below is the Obsidian markdown to generate the image above and to test the snippet for yourself
