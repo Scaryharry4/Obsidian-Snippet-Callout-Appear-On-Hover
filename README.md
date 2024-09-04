@@ -32,3 +32,7 @@ This callout is open by default with the "+" symbol
 > > [!TIP]- Collapsed
 > This callout is open by default with the "+" symbol
 ```
+
+
+### Thanks
+Thanks to kapirklaa on the Obsidian discord for recommending the use of flex-grow to get this working
