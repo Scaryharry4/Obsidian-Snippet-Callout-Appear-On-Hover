@@ -4,15 +4,13 @@ Hover callouts functions so that Obsidian.md callouts that are not set to be ope
 # !!IMPORTANT!!
 If the content of your callout is more than 41 lines (With default text size) or otherwise exceeds 1000px in height you must adjust the snippet in order for your content to not be cut off.
 
-This callout has not yet been tested on non default callout themes. If you adjust this to function with a theme of your choice I encourage you to make a fork on the Github
-https://github.com/Scaryharry4/Obsidian-Snippet-Callout-Appear-On-Hover
+This snippet has not yet been tested on non default callout themes. If it does not work with your theme of choice and you adjust it to function with said theme I encourage you to make a fork.
 
-Please note that this does not apply to nested callouts at the moment as I just cant be asked to keep working on this. If you feel so inclined feel free to make it yourself id be happy to accept a pull request.
+Please note that this does not apply to nested callouts at the moment.
 
+![Example Gif](https://github.com/user-attachments/assets/424138cd-065e-419d-b3d2-6ed866102ce6)
 
-<img width="616" alt="Hover Callout Example" src="https://github.com/user-attachments/assets/2aaaea2c-38e6-45d1-afb6-0fc65bfddcf3">
-
-Below is the Obsidian markdown to generate the image above and to test the snippet for yourself
+Below is the Obsidian markdown to generate the example above and to test the snippet for yourself
 ```
 > [!NOTE] Normal
 > This callout is closed by default but on hover will appear
